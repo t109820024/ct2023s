@@ -38,8 +38,112 @@
   <text x="70" y="9" style="font-size:1pt;">六 7.875</text>
 
   <!-- Your beautiful SVG code will end here -->
+  <rect x="20" y="50" width="14.761" height="14.761" stroke="red" stroke-width="0.1" fill="none"/>
+    <rect x="20" y="50" width="7.3805" height="7.3805" stroke="blue" stroke-width="0.1" fill="none"/>
+      <text x="21.845125" y="55.535375" style="font-size:3pt;">春</text>
 
-  <rect x="50" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+    <rect x="27.3805" y="50" width="7.3805" height="7.3805" stroke="blue" stroke-width="0.1" fill="none"/>
+      <text x="29.225625" y="55.535375" style="font-size:3pt;">水</text>
+
+    <rect x="27.3805" y="57.3805" width="7.3805" height="7.3805" stroke="blue" stroke-width="0.1" fill="none"/>
+      <text x="21.845125" y="62.915875" style="font-size:3pt;">煎</text>
+
+    <rect x="20" y="57.3805" width="7.3805" height="7.3805" stroke="blue" stroke-width="0.1" fill="none"/>
+      <text x="29.225625" y="62.915875" style="font-size:3pt;">茶</text>
+
+
+  <!-- 2 -->
+  <rect x="34.761" y="50" width="14.761" height="14.761" stroke="black" stroke-width="0.1" fill="none"/>
+      <text x="36.636125" y="62.915875" style="font-size:9pt;">天</text>
+
+
+
+  <!-- 3 -->
+  <rect x="49.522" y="50" width="14.761" height="14.761" stroke="red" stroke-width="0.1" fill="none"/>
+    <rect x="49.582" y="50" width="7.3805" height="7.3805" stroke="blue" stroke-width="0.1" fill="none"/>
+      <text x="51.367125" y="55.535375" style="font-size:3pt;">萬</text>
+
+    <rect x="56.9625" y="50" width="7.3805" height="7.3805" stroke="blue" stroke-width="0.1" fill="none"/>
+      <text x="58.807625" y="55.535375" style="font-size:3pt;">像</text>
+
+    <rect x="56.9625" y="57.3805" width="7.3805" height="7.3805" stroke="blue" stroke-width="0.1" fill="none"/>
+      <text x="51.367125" y="62.915875" style="font-size:3pt;">彌</text>
+
+    <rect x="49.582" y="57.3805" width="7.3805" height="7.3805" stroke="blue" stroke-width="0.1" fill="none"/>
+      <text x="58.807625" y="62.915875" style="font-size:3pt;">新</text>
+
+
+  <!-- 4 -->
+  <rect x="20" y="64.761" width="14.761" height="14.761" stroke="red" stroke-width="0.1" fill="none"/>
+    <rect x="20" y="64.761" width="7.3805" height="7.3805" stroke="blue" stroke-width="0.1" fill="none"/>
+      <text x="21.845125" y="70.326375" style="font-size:3pt;">楚</text>
+
+    <rect x="27.3805" y="64.761" width="7.3805" height="7.3805" stroke="blue" stroke-width="0.1" fill="none"/>
+      <text x="29.225625" y="70.326375" style="font-size:3pt;">廟</text>
+
+    <rect x="20" y="72.1415" width="7.3805" height="7.3805" stroke="blue" stroke-width="0.1" fill="none"/>
+      <text x="21.845125" y="77.706875" style="font-size:3pt;">寒</text>
+
+    <rect x="27.3805" y="72.1415" width="7.3805" height="7.3805" stroke="blue" stroke-width="0.1" fill="none"/>
+      <text x="29.225625" y="77.706875" style="font-size:3pt;">鴉</text>
+
+
+  <!-- 5 -->
+<!--<rect x="34.761" y="64.761" width="7.3805" height="14.761" stroke="red" stroke-width="0.1" fill="none"/>
+      <text x="36.636125" y="77.706875" style="font-size:9pt;">地</text>-->
+
+
+  <!-- 6 -->
+  <rect x="49.522" y="64.761" width="14.761" height="14.761" stroke="red" stroke-width="0.1" fill="none"/>
+    <rect x="49.582" y="64.761" width="7.3805" height="7.3805" stroke="blue" stroke-width="0.1" fill="none"/>
+      <text x="51.367125" y="70.326375" style="font-size:3pt;">孔</text>
+
+    <rect x="56.9625" y="64.761" width="7.3805" height="7.3805" stroke="blue" stroke-width="0.1" fill="none"/>
+      <text x="58.807625" y="70.326375" style="font-size:3pt;">林</text>
+
+    <rect x="49.582" y="72.1415" width="7.3805" height="7.3805" stroke="blue" stroke-width="0.1" fill="none"/>
+      <text x="51.367125" y="77.706875" style="font-size:3pt;">喬</text>
+
+    <rect x="56.9625" y="72.1415" width="7.3805" height="7.3805" stroke="blue" stroke-width="0.1" fill="none"/>
+      <text x="58.807625" y="77.706875" style="font-size:3pt;">木</text>
+
+
+  <!-- 7 -->
+  <rect x="20" y="79.522" width="14.761" height="14.761" stroke="red" stroke-width="0.1" fill="none"/>
+    <rect x="20" y="79.522" width="7.3805" height="7.3805" stroke="blue" stroke-width="0.1" fill="none"/>
+      <text x="21.845125" y="85.057375" style="font-size:3pt;">松</text>
+
+    <rect x="27.3805" y="79.522" width="7.3805" height="7.3805" stroke="blue" stroke-width="0.1" fill="none"/>
+      <text x="29.225625" y="85.057375" style="font-size:3pt;">花</text>
+
+    <rect x="20" y="86.9025" width="7.3805" height="7.3805" stroke="blue" stroke-width="0.1" fill="none"/>
+      <text x="21.845125" y="92.437875" style="font-size:3pt;">
+        釀</text>
+
+    <rect x="27.3805" y="86.9025" width="7.3805" height="7.3805" stroke="blue" stroke-width="0.1" fill="none"/>
+      <text x="29.225625" y="92.437875" style="font-size:3pt;">酒</text>
+
+  <!-- 8 -->
+  <rect x="34.761" y="79.522" width="14.761" height="14.761" stroke="black" stroke-width="0.1" fill="none"/>
+      <text x="36.636125" y="92.437875" style="font-size:9pt;">地</text>
+  
+
+
+  <!-- 9 -->
+  <rect x="49.522" y="79.522" width="14.761" height="14.761" stroke="red" stroke-width="0.1" fill="none"/>
+    <rect x="49.582" y="79.522" width="7.3805" height="7.3805" stroke="blue" stroke-width="0.1" fill="none"/>
+      <text x="51.367125" y="85.057375" style="font-size:3pt;">吳</text>
+
+    <rect x="56.9625" y="79.522" width="7.3805" height="7.3805" stroke="blue" stroke-width="0.1" fill="none"/>
+      <text x="58.807625" y="85.057375" style="font-size:3pt;">宮</text>
+
+    <rect x="49.582" y="86.9025" width="7.3805" height="7.3805" stroke="blue" stroke-width="0.1" fill="none"/>
+      <text x="51.367125" y="92.437875" style="font-size:3pt;">曼</text>
+
+    <rect x="56.9625" y="86.9025" width="7.3805" height="7.3805" stroke="blue" stroke-width="0.1" fill="none"/>
+      <text x="58.807625" y="92.437875" style="font-size:3pt;">草</text>
+
+<!--   <rect x="50" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
   <text x="50.4" y="53.9" style="font-size:3pt;">褚</text>
   <rect x="50" y="54.8330" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
   <text x="50.4" y="58.733" style="font-size:3pt;">遂</text>
@@ -60,7 +164,7 @@
   <rect x="59.666" y="54.8330" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
   <text x="60.066" y="58.733" style="font-size:3pt;">科</text>
   <rect x="59.666" y="59.666" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="60.066" y="63.566" style="font-size:3pt;">大</text>
+  <text x="60.066" y="63.566" style="font-size:3pt;">大</text> -->
 
 
 
@@ -78,4 +182,4 @@
 </svg>
 
 <!-- 14.761 9.662 7.381 5.535 4.833 3.69 2.768 -->
-								
+                
